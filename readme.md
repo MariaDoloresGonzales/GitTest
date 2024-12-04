@@ -1,4 +1,7 @@
-# Hello, world!
-
-When I was a young boy
-My father took me into the city
+# NeuroStartUp
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
